@@ -4,6 +4,7 @@ To run this code do the following:
 
 1. Clone/Download this file
 2. Install Anaconda
-3. Install necessary libraries including Keras and Matplotlib
+3. Install necessary libraries including Keras, OpenCV and Matplotlib
 4. Open Jupyter notebook
+5. Enter dataset directory path and other paths where required.
 5. Run this file in Jupyter notebook
