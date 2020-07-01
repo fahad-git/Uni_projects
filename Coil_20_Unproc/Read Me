@@ -6,5 +6,6 @@ To run this code do the following:
 2. Install Anaconda
 3. Install necessary libraries including Keras, OpenCV and Matplotlib
 4. Open Jupyter notebook
-5. Enter dataset directory path and other paths where required.
-5. Run this file in Jupyter notebook
+5. Enter dataset directory path and other paths where required
+6. Run this coil-20-unproc.ipynb file in Jupyter notebook
+7. If you want to do data visualization and augmentation run second file
