@@ -1,0 +1,9 @@
+This is Coil 20 Unproc data this.
+This dataset contains 5 classes (Object1, Object2, Object3, Object4, Object5)
+To run this code do the following:
+
+1. Clone/Download this file
+2. Install Anaconda
+3. Install necessary libraries including Keras and Matplotlib
+4. Open Jupyter notebook
+5. Run this file in Jupyter notebook
