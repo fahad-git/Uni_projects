@@ -1,7 +1,8 @@
 This is model training on Caltech_101 dataset. This dataset contains 101 classes for object detection
 To train the model do the following:
 1. Install Anaconda and Jupyter notebook
-2. Download/Clone this directory
-3. Download Dataset
-4. Set the path of dataset in the code
-5. Run the ipynb file
+2. Install other necessary libraries including Matplotlib, Numpy, Pandas, Scipy, Sklearn and Skimage
+3. Download/Clone this directory
+4. Download Dataset
+5. Set the path of dataset in the code
+6. Run the ipynb file
