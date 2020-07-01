@@ -1,0 +1,5 @@
+This code is for training classification model for classifying dog and cat using Keras Library.
+To run this code do following:
+1. Clone/Download this file. 
+2. Install all required libraries including Keras and matplotlib
+3. Run this file in Anaconda Jupyter Notebook
