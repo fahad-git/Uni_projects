@@ -1,0 +1,7 @@
+Here is code for weather image dataset classification.
+TO run this code do following:
+1. Install Anaconda and jupyter notebook
+2. Install other necessary libraries including Keras, Matplotlib, NumPy and Pandas
+3. Download/Clone this directory
+4. Change the path of dataset in code
+5. Run the ipynb file
