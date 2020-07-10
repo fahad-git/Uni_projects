@@ -1,0 +1,2 @@
+Here is autoencoder trained on fashion mnist dataset.
+This autoencoder simply remove noice in (28,28,1) shape images. 
