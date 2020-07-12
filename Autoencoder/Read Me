@@ -1,0 +1,25 @@
+This is simple CNN based application which takes low resolution image as input and produce high resolution image. 
+This directory contains multiple directories here is description:
+images - this directory contains all images that are uploaded during  project run
+model - this directory contains all pre-trained weights for model
+prediction - this directory will contain the predicted images
+static - this directory contain all static material er. images etc
+templates - this directory contains HTML webpages.
+
+How to train model
+
+ * To train model install all required libraries mentioned in requirements.txt
+ * Open Anaconda and run Jupyter notebook
+ * Run Learner_Notebook_Image_Super_Resolution.ipynb file. 
+ * Download dataset (dataset link already present in this repo) and set its path into .ipynb file
+ * Execute this file and save model.
+ 
+ 
+ How to run web-based application
+ 
+  * Go to directory flaskapp
+  * Intall all libraries mentioned in requirements.txt
+  * run command `Python application.py` or `python3 application.py`
+  * Now copy ip and port eg 127.0.0.1:5000 and paste it on browser link bar and press enter
+  
+  
