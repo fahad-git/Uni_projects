@@ -19,6 +19,7 @@ How to train model
  
   * Go to directory flaskapp
   * Intall all libraries mentioned in requirements.txt
+  * Set the model weights file paths
   * run command `Python application.py` or `python3 application.py`
   * Now copy ip and port eg 127.0.0.1:5000 and paste it on browser link bar and press enter
   
